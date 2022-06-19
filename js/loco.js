@@ -1,0 +1,1 @@
+import LocomotiveScroll from"locomotive-scroll";const locomotive=new LocomotiveScroll({el:document.querySelector("[data-scroll-container]"),smooth:!0});
